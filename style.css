@@ -1,0 +1,82 @@
+body
+{
+	margin:0;
+	padding:0;
+
+}
+.liste-nav
+
+{
+	 display: flex;
+	 justify-content:flex-end;
+	 margin:0;
+	padding:0;
+	 
+	 
+}
+
+
+.vy
+
+{
+
+display: flex;
+justify-content: center;
+
+
+}
+
+
+
+
+
+
+
+footer
+{
+display:flex;
+bottom:0;
+position: absolute;
+width:100%;
+
+}
+
+.vo
+{
+ border-style: solid;
+}
+.tout
+{
+background-color:silver;
+width:100%;
+
+
+}
+.gauche
+{
+	display: flex;
+background-color: silver;
+justify-content:flex-start;
+ border-style: solid;
+ 
+
+}
+.droite
+{
+	display: flex;
+background-color: silver;
+flex-container: flex-end;
+ 
+
+
+}
+.groove1
+{
+
+
+}
+
+.grouve2
+{
+justify-content;flex-end;
+}
